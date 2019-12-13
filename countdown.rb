@@ -1,4 +1,4 @@
-#write your code here
-
-def countdown
+def countdown(midnight)
+  while midnight > 0 
+  
 end
